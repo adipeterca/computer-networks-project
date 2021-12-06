@@ -1,0 +1,48 @@
+loginadmin initial value: 0 (scris in binar)
+loginuser initial value: 0 (scris in binar)
+
+
+
+id : ADMIN
+pass : ADMIN
+type: admin
+family:
+friends:
+
+id : adrian
+pass : 1234
+type: user
+family:
+friends:
+
+id : adrian1
+pass : 123456
+type: user
+family:
+friends:
+
+id : marian
+pass : marian
+type: user
+family:
+friends:
+
+id : pinguinu
+pass : 1+2=3
+type: user
+family:
+friends:
+
+id : Mark
+pass : facebook
+type: user
+family:
+friends:
+
+id : Mark2
+pass : facebook
+type: user
+family:
+friends:
+
+
